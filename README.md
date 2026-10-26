@@ -109,7 +109,7 @@ of existing temperature records.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Levani-Machit/coldchain_guard.git
 cd coldchain_guard
 ```
 
